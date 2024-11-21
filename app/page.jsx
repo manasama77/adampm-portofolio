@@ -25,7 +25,7 @@ const Home = () => {
 							<Button
 								variant="outline"
 								size="lg"
-								className="flex items-center gap-2 text-black uppercase"
+								className="flex items-center gap-2 uppercase"
 							>
 								<span>See my CV</span>
 								<FiDownload className="text-xl" />
